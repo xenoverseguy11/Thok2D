@@ -1,6 +1,8 @@
 # Thok2D 
 
-https://img.shields.io/badge/language-C%2B%2B-blue
+https://img.shields.io/badge/any_text-you_like-blue
+
+
  
 
 ### A game engine easy to use yet so powerful.
