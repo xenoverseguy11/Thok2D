@@ -1,6 +1,7 @@
 # Thok2D 
 
-![C++](https://shields.io)   ![Visual Studio](https://shields.io)   
+![C++](https://shields.io)
+![Visual Studio](https://shields.io)   
 
 ## A game engine easy to use yet so powerful.
 
